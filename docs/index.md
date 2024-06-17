@@ -1,3 +1,1 @@
-# Welcome to nian'site
-
-hello.
+# Welcome to Ning Xin'site

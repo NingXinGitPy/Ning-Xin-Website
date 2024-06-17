@@ -1,10 +1,8 @@
 site_name: Ning Xin
 # 配置导航栏
-nav:
-  - hello.md
 # 设计主题
 theme:
-  name:material
+  name: material
 # 拓展语法, 以支持数学公式
 markdown_extensions:
   -pymdownx.arithmatex:

@@ -1,10 +1,11 @@
 site_name: Ning Xin
-# 配置导航栏
+
 # 设计主题
 theme:
   name: material
   palette: 
-      scheme: slate
+      primary: "light blue"
+      accent: "blue"
   font:
       text: Roboto
       code: Roboto Mono
